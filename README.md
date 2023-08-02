@@ -1,3 +1,19 @@
+## Description 📑
+
+React practice.
+Created with HTML, CSS, JavaScript and React.
+
+## Author ✒️
+**Michel Perea**
+
+* [LinkedIn](https://www.linkedin.com/in/michel-perea/)
+
+  ## Project preview
+If you want to take a look at the project, I recommend you:
+
+https://michelperea.github.io/react-testimonios-fcc/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
